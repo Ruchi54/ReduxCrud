@@ -1,0 +1,27 @@
+.popup-box {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+}
+.popup-box .box {
+  position: relative;
+  width: 50%;
+  min-height: 300px;
+  background-color: white;
+  border: 1px solid gray;
+  border-radius: 10px;
+  margin: 20px auto;
+  padding: 20px;
+  overflow: auto;
+}
+.popup-box .btn-close {
+  cursor: pointer;
+  border: 1px solid grey;
+  border-radius: 50%;
+  position: fixed;
+  right: calc(28% - 40px);
+  top: 30px;
+}/*# sourceMappingURL=Dialog.css.map */

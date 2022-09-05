@@ -1,0 +1,60 @@
+.add_user {
+  margin-top: 10px;
+  margin-right: 30px;
+  float: right;
+}
+
+.add_user button {
+  background-color: rgb(223, 223, 37);
+  color: white;
+  border: none;
+  width: 90px;
+  height: 30px;
+  border-radius: 10%;
+}
+
+h2 {
+  color: black;
+  margin-left: 100px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+  float: left;
+  color: black;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-left: 70px;
+  text-align: left;
+}
+table thead {
+  border-bottom: 1px solid rgb(216, 207, 207);
+}
+table thead td {
+  padding: 2em 2em;
+}
+table tbody {
+  border-bottom: 1px solid rgb(216, 207, 207);
+  margin-bottom: 10px;
+}
+table tbody td {
+  padding: 2em 2em;
+  text-align: left;
+}
+table tbody .edit_button {
+  background-color: rgb(76, 178, 76);
+  color: white;
+  border: none;
+  width: 60px;
+  height: 30px;
+  border-radius: 10%;
+}
+table tbody .delete_button {
+  background-color: rgb(201, 97, 97);
+  color: white;
+  border: none;
+  width: 60px;
+  height: 30px;
+  border-radius: 10%;
+}/*# sourceMappingURL=Home.css.map */
